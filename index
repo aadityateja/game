@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Click Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Click Counter</h1>
+  <p id="score">0</p>
+  <button onclick="increase()">Click Me</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
